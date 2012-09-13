@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.require_paths = %w[lib]
 
   # Runtime Dependencies
-  s.add_runtime_dependency('addressable', '>= 0')
+  s.add_runtime_dependency('rack', '>= 0')
   s.add_runtime_dependency('hashery', '>= 0')
   s.add_runtime_dependency('hashie', '>= 0')
   s.add_runtime_dependency('httparty', '>= 0')

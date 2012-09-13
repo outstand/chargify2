@@ -2,10 +2,10 @@ PATH
   remote: .
   specs:
     chargify2 (0.2.2)
-      addressable
       hashery
       hashie
       httparty
+      rack
 
 GEM
   remote: http://rubygems.org/

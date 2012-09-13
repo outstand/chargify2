@@ -1,5 +1,5 @@
 require 'httparty'
-require 'addressable/uri'
+require 'rack'
 require 'hashie'
 require 'hashery/open_cascade'
 
